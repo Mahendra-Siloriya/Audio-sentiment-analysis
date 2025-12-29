@@ -4,7 +4,7 @@ The aim of this project is to evaluate the sentiment of a customer throughout a 
 
 ### Team Members
 
-Arpit Shah, Shivani Firodiya
+Mahendra, Krishna Lodhi, Raj chouhan
 
 ## Motivation
 
